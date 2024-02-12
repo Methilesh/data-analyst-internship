@@ -1,4 +1,4 @@
-## Data Analytics Internship
+# Data Analytics Internship
 
 # Project 1: Frog Game using Python
 
