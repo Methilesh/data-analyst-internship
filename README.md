@@ -1,3 +1,5 @@
+## Data Analytics Internship
+
 # Project 1: Frog Game using Python
 
 This project implements a simple Frog Game using Python. The game involves moving a frog across the screen to catch insects. The game is built using Python's `pygame` library.
