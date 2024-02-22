@@ -17,6 +17,7 @@ Interns will work with the Mundane Mystery dataset and utilize SQL queries to ex
 
 ## Project 6: Tableau Dashboard Creation on Air Pollution Analysis
 This project involves creating a Tableau dashboard to visualize and analyze air pollution data. Interns will use Tableau's features to create interactive visualizations that highlight trends, geographic patterns, and potential correlations in air quality metrics.
+![Screenshot 2024-02-12 175235](https://github.com/Methilesh/data-analyst-internship/assets/141352214/0b5a282e-112d-4bdd-963a-612e5c54f43f)
 
 ## Project 7: Capstone Fitbit Consumer Behavior Analysis
 Interns will undertake a comprehensive analysis of consumer fitness behavior using Fitbit data. By merging multiple datasets encompassing various time intervals and applying advanced analytical techniques, interns will derive actionable insights to inform decision-making in the fitness and wellness industry.
